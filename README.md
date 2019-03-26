@@ -39,7 +39,6 @@ Index maps usernames to IP addresses; distributed over SNs
 For DHT:
 Motivation:
 Frustrated by popularity of all these “half-baked” P2P apps 
-We can do better! 
 Guaranteed lookup success for files in system
 Provable bounds on search time
 Provable scalability to millions of node
