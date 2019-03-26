@@ -13,7 +13,7 @@ k1,k2,…,kM //Hashed keys, joined in order
  1,2,0,6
  7,1
  -1,-1
- For each key, output its associated node and the successor table (i.e., finger table).
+Output each key with its associated node and the successor table (i.e., finger table).
 For the input above, your output should be
  0
  0 1 1
