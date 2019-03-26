@@ -1,5 +1,5 @@
 # SimpleProgram
-It can implement a basic Chord DHT. The input format is as follows :
+This program can implement a basic Chord DHT. The input format is as follows :
  S //Hash space [0…S] S=2^K-1 for some integer K (<10)
  N //Number of nodes
  M //Number of keys
