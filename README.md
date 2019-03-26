@@ -49,7 +49,7 @@ Fully distributed (no centralized bottleneck/single point of failure)
 DHT mechanism should gracefully handle nodes joining/leaving 
 need to repartition the range space over existing nodes
 need to reorganize neighbor set
-need bootstrap mechanism to connect new nodes into the existing DHT infrastructure
+need bootstrap mechanism to connect new nodes into existing DHT infrastructure
 
 For Chord:
  Associate to each node and file a unique id in an uni-dimensional space (a Ring)
