@@ -1,5 +1,5 @@
 # SimpleProgram
-It can Implement a basic Chord DHT. The input format is as follows :
+It can implement a basic Chord DHT. The input format is as follows :
  S //Hash space [0…S] S=2^K-1 for some integer K (<10)
  N //Number of nodes
  M //Number of keys
@@ -24,7 +24,7 @@ For the input above, your output should be
  1 3 6
  2 5 
 
-THis is a P2P network alogritm, peer joining torrent: 
+This is a P2P network algorithm, peer joining torrent: 
 has no chunks, but will accumulate them over time
 registers with tracker to get list of peers, connects to subset of peers (“neighbors”)
 while downloading,  peer uploads chunks to other peers. 
