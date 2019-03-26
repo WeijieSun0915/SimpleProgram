@@ -53,7 +53,7 @@ need bootstrap mechanism to connect new nodes into existing DHT infrastructure
 
 For Chord:
  Associate to each node and file a unique id in an uni-dimensional space (a Ring)
-E.g., pick from the range [0...2m-1]
+E.g.: pick from the range [0...2m-1]
 the hash of the file or  IP address
 Properties:
 Routing table size is O(log N) , where N is the total number of nodes
