@@ -25,7 +25,7 @@ For the input above, your output should be
  2 5 
 
 This is a P2P network algorithm, peer joining torrent: 
-has no chunks, but will accumulate them over time
+has no chunks, however will accumulate them over time
 registers with tracker to get list of peers and connects to its subset. (“neighbors”)
 while downloading,  peer uploads chunks to other peers. 
 peers may come and go: churn
